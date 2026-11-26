@@ -2,6 +2,7 @@
 
 Signed builds and the update feeds of the Ataraxia browser for macOS.
 
+- **Install:** see [INSTALL.md](INSTALL.md) (beta: signed, not notarized; Apple silicon, macOS 26 or later).
 - **Download:** [Releases](https://github.com/William0310/Ataraxia-Releases/releases). Each release has a DMG for manual installation and the archive the built-in updater uses.
 - **Updates:** Ataraxia checks `https://william0310.github.io/Ataraxia-Releases/appcast.xml` (Sparkle 2). Updates and the feed itself are signed with Ataraxia's EdDSA key and verified before anything is installed.
 - `staging/appcast.xml` is for testing release candidates and is never used by released builds.
