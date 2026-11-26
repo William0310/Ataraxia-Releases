@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Ataraxia (staging)</title>
+        <link>https://github.com/William0310/Ataraxia-Releases</link>
+        <description>Staging feed: release candidates are checked here before they are published to the production feed.</description>
+        <language>en</language>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 2a9iI82mlTJ4mqytZvduGu8n1axFxaQS1Vtxv+dLlCfTNSGMfBnFqHq4oalK3CtQ6X9kxNF4R1fx5jmsMKiLDg==
+length: 737
+-->
