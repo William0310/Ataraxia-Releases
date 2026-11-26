@@ -9,7 +9,7 @@ you open it. You never need to turn off any macOS security setting.
 1. Download **Ataraxia-1.2.0-121.dmg** from the [latest release](https://github.com/William0310/Ataraxia-Releases/releases/latest).
 2. Optional: check the download. In Terminal, `shasum -a 256 ~/Downloads/Ataraxia-1.2.0-121.dmg` should print
    `4dc30952bf59a465fafc0a6e04a17c9afcf0e1e7c02a16bf8565b9048e372de7`.
-3. Open the DMG and drag **Ataraxia** onto **Applications**. Eject the DMG.
+3. Open the DMG and drag **Ataraxia** onto **Applications**. Eject the DMG. Always open Ataraxia from Applications, not from the DMG or Downloads: updates can only be installed there.
 
 ## 2. Open it the first time
 1. Open Ataraxia from Applications. macOS says **"Ataraxia" Not Opened** because Apple hasn't checked it. Click **Done** (not Move to Trash).
