@@ -9,6 +9,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Signed updates for Ataraxia.</description>
         <language>en</language>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Wed, 25 Nov 2026 21:14:19 -0800</pubDate>
+            <sparkle:version>124</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Ataraxia 1.2.1</h2>
+<p>Signed with an Apple Development certificate; not notarized by Apple. Apple Silicon, macOS 26 or later.</p>
+<ul>
+<li>Settings → Appearance → Customize Light Tunnel 3.0: adjust card corners, feather, underlay, spill, page size, sampling and smoothing. Changes apply immediately and are kept across restarts and updates; Restore Defaults returns to the approved look.</li>
+<li>New default Light Tunnel configuration: 13 pt circular corners, feather exponent 8.00, top feather ratio 0.90, spill 0.85 over 141.5 pt. If you have customized it, your settings are kept.</li>
+<li>Announcements are checked when Ataraxia starts and every 30 minutes (was every 12 hours).</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/William0310/Ataraxia-Releases/releases/download/v1.2.1-124/Ataraxia-1.2.1-124.zip" length="4051360" type="application/octet-stream" sparkle:edSignature="rDTbm9fTzHWX21UzyIygHIWb1reAnhcdDJlJHHAgm5vYpLw+59ZUPpsOM+VefYrHk4pTGjDUCOEwleeWVT6GCA=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Wed, 25 Nov 2026 18:23:32 -0800</pubDate>
             <sparkle:version>121</sparkle:version>
@@ -47,6 +64,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: WQSMZBHodAOQ3yZY7e/QfUL/560U7nJ55A565O8+qV7gnzF/7Qs2jWKpXqo9hUCI/O2ZVqhK+zxzPiU85AhcAw==
-length: 3429
+edSignature: WXwRjM8DJSFB7375MU/EAM1PFl4yvPiyABXa2N8/Ce6DhWBsAJLAWTKSFcudquCUi8dfbJtw8yGeqJryF/rlAg==
+length: 4887
 -->
