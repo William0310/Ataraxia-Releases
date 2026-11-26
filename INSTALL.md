@@ -6,9 +6,9 @@ This beta is **signed by its developer but not notarized by Apple**, so macOS as
 you open it. You never need to turn off any macOS security setting.
 
 ## 1. Install
-1. Download **Ataraxia-1.2.1-124.dmg** from the [latest release](https://github.com/William0310/Ataraxia-Releases/releases/latest).
-2. Optional: check the download. In Terminal, `shasum -a 256 ~/Downloads/Ataraxia-1.2.1-124.dmg` should print
-   `5dd9529ee377d2a80c616f50ab09495f1015c37c79b5f6d771cabb6b3c3455f0`.
+1. Download **Ataraxia-1.3.0-127.dmg** from the [latest release](https://github.com/William0310/Ataraxia-Releases/releases/latest).
+2. Optional: check the download. In Terminal, `shasum -a 256 ~/Downloads/Ataraxia-1.3.0-127.dmg` should print
+   `b9d13bac0f30897f3f5ed85e6539318795b2904126edc0547cdf13f0895793da`.
 3. Open the DMG and drag **Ataraxia** onto **Applications**. Eject the DMG. Always open Ataraxia from Applications, not from the DMG or Downloads: updates can only be installed there.
 
 ## 2. Open it the first time
