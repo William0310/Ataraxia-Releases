@@ -10,6 +10,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <language>en</language>
         <item>
             <title>1.2.0</title>
+            <pubDate>Wed, 25 Nov 2026 18:23:32 -0800</pubDate>
+            <sparkle:version>121</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Ataraxia 1.2.0 (121) — external beta</h2>
+<p>Signed with an Apple Development certificate; <strong>not notarized by Apple</strong>. Apple Silicon, macOS 26 or later.</p>
+<ul>
+<li>Software updates: Ataraxia can now check for and install updates itself (Ataraxia → Check for Updates…, or Settings → General → Software Updates). Every update and the update feed are signed and verified before anything is installed.</li>
+<li>Card buttons use the regular Liquid Glass material in Standard and Immersive Mode.</li>
+<li>Announcements can have several lines.</li>
+<li>The finalized light tunnel and card corners in both modes.</li>
+<li>The user agreement (version 1.1) now describes the announcement and update requests; you’ll be asked to accept it again.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/William0310/Ataraxia-Releases/releases/download/v1.2.0-121/Ataraxia-1.2.0-121.zip" length="4007025" type="application/octet-stream" sparkle:edSignature="Q9XefBMo1XzkLa/HzXVbBgJRFY20xCi2YGdph4TIjjm5I8UadFddpMQyHbrsBZxpDMDb3BA0xhjRSy1Nyj4qCA=="/>
+        </item>
+        <item>
+            <title>1.2.0</title>
             <pubDate>Wed, 25 Nov 2026 17:25:38 -0800</pubDate>
             <sparkle:version>120</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
@@ -28,6 +47,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: LBrbUlokNlVgtY72ugIkaERjbBVs4MUUPmuFel3fQDyQ8JQzllkcd7/QEPyqzjiEA8SMeXT7VU96UgMPwHHXCQ==
-length: 1898
+edSignature: WQSMZBHodAOQ3yZY7e/QfUL/560U7nJ55A565O8+qV7gnzF/7Qs2jWKpXqo9hUCI/O2ZVqhK+zxzPiU85AhcAw==
+length: 3429
 -->
